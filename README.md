@@ -22,4 +22,4 @@ The final work is distribuited on theese files:
 
 If you wish to play against your models, you can do it by changing the game characteristics, the model characteristics and the model path in play_AI.py and running it.
 
-<sub><sup>README.md by [Andre Sousa](https://github.com/anfisou)</sup></sub>
+<sub>README.md by [Andre Sousa](https://github.com/anfisou)</sub>
