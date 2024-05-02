@@ -1,4 +1,4 @@
-# English Version
+# AlphaZero Game Player
  
 This project was developed for the subject 'Laboratório de IACD' by the students [André Sousa](https://github.com/anfisou), [António Cardoso](https://github.com/ToniCardosooo), [Antónia Brito](https://github.com/Nia3324) and [Paulo Silva](https://github.com/WrekingPanda).
 
